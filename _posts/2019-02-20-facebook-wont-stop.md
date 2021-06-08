@@ -11,3 +11,5 @@ The recruiter asked if I had interest in the role and I pretty quickly got on my
 I’ll repeat that: **Facebook itself told me it’s going to keep doing what it’s doing until it gets regulated.**
 
 Let's make that happen?
+
+_Update: I've added more thoughts on this topic [here](/blog/pursuing-change/)_
