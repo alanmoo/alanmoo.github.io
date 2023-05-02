@@ -92,6 +92,10 @@ li, p, a {
 
 .show-print {
   display: none; }
+  
+.significant-project{
+    break-inside: avoid-page;
+  }
 
 @media print {
   html, body {
